@@ -28,7 +28,7 @@ It uses a tiny probe (classifier) trained on the [JailbreakBench](https://github
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/deception-probe.git
+git clone https://github.com/a1k7/deception-probe.git
 cd deception-probe
 
 # Install dependencies
