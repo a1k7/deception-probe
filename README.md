@@ -24,6 +24,9 @@ It uses a tiny probe (classifier) trained on the [JailbreakBench](https://github
 3. Trains a linear probe on 100 real harmful/benign prompts from JailbreakBench.
 4. At inference, scores each token’s internal state; if the score exceeds a threshold, generation is **DENY** and the trace records the interception.
 
+Requirements:
+Python 3.9+, Mac with M1/M2/M3/M4 or any x86_64 with CPU
+
 ## Quick start
 
 ```bash
