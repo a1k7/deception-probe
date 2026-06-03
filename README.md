@@ -64,7 +64,7 @@ Commercial use & pilots
 
 I offer paid pilots ($1,500, pay only if satisfied) to adapt this probe to your own model (e.g., Llama 3, Mistral) and deployment environment.
 DM me on LinkedIn or email warikakhilesh319@gmail.com.
-
+Linkedin : www.linkedin.com/in/decisionassure
 License
 
 MIT 
